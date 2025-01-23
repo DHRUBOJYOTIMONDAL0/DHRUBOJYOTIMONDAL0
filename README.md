@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
- 🔭 I’m currently studying at  Jis University.<br>🌱 I’m currently learning ata Analytics Tools.
+ 🔭 I’m currently studying at  Jis University.<br>🌱 I’m currently learning Data Analytics Tools.
 
 
 
