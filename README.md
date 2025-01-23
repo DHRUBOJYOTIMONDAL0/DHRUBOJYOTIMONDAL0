@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DHRUBOJYOTIMONDAL0&theme=midnight-purple&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUBOJYOTIMONDAL0&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- ### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DHRUBOJYOTIMONDAL0&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 ---
